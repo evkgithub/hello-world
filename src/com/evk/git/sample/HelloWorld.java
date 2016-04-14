@@ -4,6 +4,8 @@
 package com.evk.git.sample;
 
 /**
+ * Sample program created to validate GitHub commit
+ * 
  * @author VIJAYAKUMAR
  *
  */
